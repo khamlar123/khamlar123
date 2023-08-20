@@ -6,7 +6,7 @@ FullStack Developer
 
 * 🌍  I'm based in Vientaince
 * ✉️  You can contact me at [mr.khamlarchanthavong@gmai.com](mr.khamlarchanthavong@gmai.com)
-* 🧠  I'm learning alia
+* 🧠  I'm learning alien
 * 🤝  I'm open to collaborating on Lottery Project
 
 <a href="https://www.github.com/khamlar123" target="_blank" rel="noreferrer"><img
