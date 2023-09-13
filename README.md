@@ -68,4 +68,4 @@ src="https://img.shields.io/github/followers/khamlar123?logo=github&style=for-th
 
 ### Support Me
 
-<a href="https://www.buymeacoffee.com/meddev"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://www.buymeacoffee.com/mrkhamlarcm"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
